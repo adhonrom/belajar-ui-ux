@@ -32,3 +32,31 @@ Konsistensi cukup penting dalam sebuah produk digital. Karena dengan konsistensi
 >Contohnya… jika dari awal tombol pencarian nya atau tombol utama nya berwarna hijau, maka di halaman halaman selanjut nya user tinggal mencari sebuah tombol berwarna hijau untuk melanjutkan prosesnya.
 Contoh konsistensi dalam penggunaan tombol :
 ![Tombol](asset/konsistensi-tombol.png)
+Membuat user mudah mengenali mana elemen tombol untuk melanjutkan proses
+
+#### 2. Workflow atau kinerja menjadi lebih cepat
+Tidak perlu lagi memikirkan…
+>“Eh tombol untuk CTA bentuknya gimana ya tadi?”
+>“Tombol Cancel baiknya seperti apa ya?”
+>“Tombol di pop-up seperti apa ya bagusnya?”
+Semua nya sudah terdokumentasikan secara jelas, sehingga cukup mengikuti aturan nya saja.
+
+Contoh Guideline sebuah tombol yang bisa mempercepat kinerja seorang designer :
+![](asset/guildeline-tombol.png)
+
+#### 3. Designer bisa lebih fokus ke pembuatan solusi
+Karena semua elemen sudah terdokumentasi, maka tidak perlu lagi untuk memikirkan…
+>“Bentuk dropdown nya seperti apa ya?”
+>“Dropdown nya bagus dikasih border atau enggak ya?”
+>“Tinggi dropdown nya seberapa ya? , apakah mau setinggi tombol utama?”
+Karena hal hal tersebut sudah terdokumentasikan, designer bisa fokus ke hal hal yang lebih penting seperti:
+
+>+ Pembuatan layout
+>+ Cara menampilkan informasi di sebuah halaman
+
+Tanpa perlu memikirkan detail kecil seperti ukuran teks dan tinggi button.
+
+Contoh Guideline untuk elemen dropdown
+![](asset/guildeline-dropdown.png)
+
+
