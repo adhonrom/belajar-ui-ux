@@ -59,4 +59,10 @@ Tanpa perlu memikirkan detail kecil seperti ukuran teks dan tinggi button.
 Contoh Guideline untuk elemen dropdown
 ![](asset/guildeline-dropdown.png)
 
+#### 4. Membantu Developer dalam implementasi design ke dalam bentuk code
+Dengan ada nya guideline, maka design sebuah produk digital akan menjadi konsisten, hal ini akan berdampak juga pada developer. Mereka akan lebih mudah mengimplementasi design dari designer.
 
+>Contohnya… Karena tombol utama nya sudah terdapat UI Guideline nya mulai dari warna nya, bentuknya, ukuran teks nya, maka developer bisa membuat sebuah class untuk tombol utama tersebut. Dan jika developer tersebut sedang mendevelop halaman lain yang terdapat tombol utama nya, mereka tidak perlu mengukur tinggi tombol tersebut, dan mencari tahu warna nya apa. Mereka cukup menggunakan class yang telah mereka buat sebelumnya.
+
+Contoh sebuah class untuk tombol
+ 	![](asset/class-button.png)
