@@ -4,3 +4,6 @@ Catatan berikut ini sekedar untuk pembelajaran pribadi, yang dihimpun dari berba
 
 ---
 
+berikut yang perlu dipelajari tentang UI guideline :
+
+### [Tentang UI Guideline - Bagian - 1](./README-WEEK-1.md)
