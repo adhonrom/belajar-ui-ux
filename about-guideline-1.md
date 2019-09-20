@@ -28,6 +28,7 @@ Contohnya:
 #### 1. Konsistensi di semua halaman sebuah produk digital bisa terjaga
 Bayangkan jika kamu menggunakan sebuah app untuk mencari tiket pesawat. Pada halaman awal, tombol pencarian nya berwarna hijau. Lalu pada halaman berikutnya tombol pemesanan nya berwarna orange. Bingung enggak?
 Dengan ada nya UI Guideline, hal ini tidak akan terjadi.
-
-contoh konsistensi dalam penggunaan tombol :
+Konsistensi cukup penting dalam sebuah produk digital. Karena dengan konsistensi, user akan lebih mudah untuk mengenali sebuah elemen.
+>Contohnya… jika dari awal tombol pencarian nya atau tombol utama nya berwarna hijau, maka di halaman halaman selanjut nya user tinggal mencari sebuah tombol berwarna hijau untuk melanjutkan prosesnya.
+Contoh konsistensi dalam penggunaan tombol :
 ![Tombol](asset/konsistensi-tombol.png)
