@@ -66,3 +66,18 @@ Dengan ada nya guideline, maka design sebuah produk digital akan menjadi konsist
 
 Contoh sebuah class untuk tombol
  	![](asset/class-button.png)
+ 
+## Kapan harus membuat UI Guideline?
+Ini sangat bergantung pada kondisi masing masing.
+Ada perusahaan yang membuat UI Guideline dari awal untuk memastikan proses design sebuah aplikasi berjalan lancar dan elemen nya konsisten. Ada perusahaan yang ngejar cepet, pokoknya jadi dulu aja. Jika ada yang enggak konsisten enggak apa apa. Bikin guideline nya bisa nanti nanti saja.
+Menurut saya pribadi, kita harus mulai untuk membuat UI Guideline jika…
+> 1. Terdapat banyak sekali halaman pada sebuah produk digital tersebut baik web maupun app.
+Sehingga jika kita sedang mendesain halaman pengisian form, kita tidak perlu mencari cari halaman lain yang memiliki design form hanya untuk mencari tahu bentuk form seperti apa. Kita cukup membuka guideline untuk mencari tahu bentuk form nya.
+> 2. Banyak designer yang mengerjakan design sebuah produk digital
+Bayangkan jika ada 4 designer yang mengerjakan sebuah produk digital. 
+Sebutlah Andi, Budi, Toni dan Ria. Andi membuat design tombol utama warna hijau. Lalu Budi karena suka Manchester United bikin design tombol utama warna merah, Toni dan Ria punya warna favorit sendiri, sehingga mereka memberi warna tombol utama sesuai warna favorit mereka. Repot kan?
+Dengan ada nya guideline, bentuk tombol utama, warna pada tombol utama, ukuran teks pada tombol utama akan tetap sama di semua halaman walaupun yang mengerjakan nya ada 4 designer.
+
+[Lanjut ke artikel berikutnya..]
+
+ 
