@@ -1,6 +1,6 @@
 ### Daftar Isi
 **[Tampilan UI Guideline](#Tampilan-UI-Guideline)**<br>
-**[Mengapa harus menggunakan UI Guideline?](#Mengapa-harus-menggunakan-UI-Guideline?)**
+[Mengapa harus menggunakan UI Guideline?](#Mengapa-harus-menggunakan-UI-Guideline?)
 
 ## Tampilan UI Guideline
 berikut adalah contoh UI yang saya dapat dari [Allen Jordan](https://dribbble.com/shots/6419510-ODS-v1-Consumer-Design-System) dari akun dribbble-nya
