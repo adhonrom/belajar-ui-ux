@@ -1,5 +1,5 @@
 ### Daftar Isi
-**[Tampilan UI Guideline](#Tampilan-UI-Guideline)**
+**[Tampilan UI Guideline](#Tampilan-UI-Guideline)**<br>
 **[Mengapa harus menggunakan UI Guideline?](#Mengapa-harus)**
 
 ## Tampilan UI Guideline
