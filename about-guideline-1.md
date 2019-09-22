@@ -1,7 +1,7 @@
 ### Daftar Isi
 **[Tampilan UI Guideline](#Tampilan-UI-Guideline)**<br>
 [Mengapa harus menggunakan UI Guideline?](#Mengapa-harus-menggunakan-UI-Guideline)<br>
-[Apa keuntungan menggunakan UI Guideline?](#Apa-keuntungan-menggunakan-UI-Guideline?)
+[Apa keuntungan menggunakan UI Guideline?](#Apa-keuntungan-menggunakan-UI-Guideline)
 
 ## Tampilan UI Guideline
 berikut adalah contoh UI yang saya dapat dari [Allen Jordan](https://dribbble.com/shots/6419510-ODS-v1-Consumer-Design-System) dari akun dribbble-nya
@@ -29,7 +29,7 @@ Contohnya:
 >Andi sedang memeriksa hasil design dari team nya. Saat itu mereka sedang mendesain alur pembelian barang. Di halaman pertama, Andi melihat tombolnya berwarna hijau. Di halaman kedua, Andi melihat tombol nya berwarna orange.
 >Karena mengalami hal tersebut, Andi lantas membuka UI Guideline dan mencari tahu bagaimana bentuk, ukuran dan warna tombol yang harus digunakan.
 
-## Apa keuntungan menggunakan UI Guideline?
+## Apa keuntungan menggunakan UI Guideline
 #### 1. Konsistensi di semua halaman sebuah produk digital bisa terjaga
 Bayangkan jika kamu menggunakan sebuah app untuk mencari tiket pesawat. Pada halaman awal, tombol pencarian nya berwarna hijau. Lalu pada halaman berikutnya tombol pemesanan nya berwarna orange. Bingung enggak?
 Dengan ada nya UI Guideline, hal ini tidak akan terjadi.
