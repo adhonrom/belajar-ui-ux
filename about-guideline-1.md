@@ -1,7 +1,8 @@
 ### Daftar Isi
 **[Tampilan UI Guideline](#Tampilan-UI-Guideline)**<br>
 [Mengapa harus menggunakan UI Guideline?](#Mengapa-harus-menggunakan-UI-Guideline)<br>
-[Apa keuntungan menggunakan UI Guideline?](#Apa-keuntungan-menggunakan-UI-Guideline)
+[Apa keuntungan menggunakan UI Guideline?](Apa-keuntungan-menggunakan-UI-Guideline)
+[Kapan harus membuat UI Guideline?](Kapan-harus-membuat-UI-Guideline)
 
 ## Tampilan UI Guideline
 berikut adalah contoh UI yang saya dapat dari [Allen Jordan](https://dribbble.com/shots/6419510-ODS-v1-Consumer-Design-System) dari akun dribbble-nya
@@ -72,7 +73,7 @@ Dengan ada nya guideline, maka design sebuah produk digital akan menjadi konsist
 Contoh sebuah class untuk tombol
  	![](asset/class-button.png)
  
-## Kapan harus membuat UI Guideline?
+## Kapan harus membuat UI Guideline
 Ini sangat bergantung pada kondisi masing masing.
 Ada perusahaan yang membuat UI Guideline dari awal untuk memastikan proses design sebuah aplikasi berjalan lancar dan elemen nya konsisten. Ada perusahaan yang ngejar cepet, pokoknya jadi dulu aja. Jika ada yang enggak konsisten enggak apa apa. Bikin guideline nya bisa nanti nanti saja.
 Menurut saya pribadi, kita harus mulai untuk membuat UI Guideline jika…
