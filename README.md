@@ -6,4 +6,6 @@ Catatan berikut ini sekedar untuk pembelajaran pribadi, yang dihimpun dari berba
 
 berikut yang perlu dipelajari tentang UI guideline :
 
-### [Tentang UI Guideline - Bagian - 1](./about-guideline-1.md)
+### [Bagian-1 - Tentang UI Guideline](./about-guideline-1.md)
+### [Bagian-2 - Colors & Typography](./about-guideline-1.md)
+### [Bagian-1 - Tentang UI Guideline](./about-guideline-1.md)
