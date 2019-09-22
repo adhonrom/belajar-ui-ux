@@ -1,3 +1,6 @@
+### Daftar Isi
+[Tampilan UI Giudline](Tampilan-UI)
+
 ## Tampilan UI Guideline
 berikut adalah contoh UI yang saya dapat dari [Allen Jordan](https://dribbble.com/shots/6419510-ODS-v1-Consumer-Design-System) dari akun dribbble-nya
 
