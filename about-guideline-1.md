@@ -84,6 +84,6 @@ Bayangkan jika ada 4 designer yang mengerjakan sebuah produk digital.
 Sebutlah Andi, Budi, Toni dan Ria. Andi membuat design tombol utama warna hijau. Lalu Budi karena suka Manchester United bikin design tombol utama warna merah, Toni dan Ria punya warna favorit sendiri, sehingga mereka memberi warna tombol utama sesuai warna favorit mereka. Repot kan?
 Dengan ada nya guideline, bentuk tombol utama, warna pada tombol utama, ukuran teks pada tombol utama akan tetap sama di semua halaman walaupun yang mengerjakan nya ada 4 designer.
 
-[Lanjut ke artikel berikutnya..]
+[Lanjut ke artikel berikutnya..](./asset/color-and-typography)
 
  
