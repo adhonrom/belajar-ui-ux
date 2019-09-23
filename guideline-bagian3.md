@@ -60,3 +60,4 @@ Berlanjut ke artikel selanjutnya
 
  
 ###### <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+###### [souce](https://medium.com/insightdesign/tentang-ui-guideline-bagian-3-35461706ca05)
