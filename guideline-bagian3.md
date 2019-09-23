@@ -5,6 +5,8 @@
   * [Dari mana kita memulai nya?](#dari-mana-kita-memulai-nya-)
   * [Bagaimana Implementasi nya?](#bagaimana-implementasi-nya-)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 Ini adalah artikel lanjutan mengenai UI Guideline. Artikel sebelumnya bisa disimak [disini](./colors-and-typography.md) , Pada bagian ke-3 ini kita akan Membuat UI Guideline untuk Margin
 Sebelum kita mulai, mari kita melihat design yang telah dibuat
 ![](asset/uiguideline2a.png)<br>
