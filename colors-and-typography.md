@@ -109,7 +109,7 @@ Setelah UI Guideline untuk Typography selesai, maka ketika kita akan membuat des
 Atau jika kamu adalah satu satu nya designer di project tersebut, maka pertimbangkanlah dulu untuk menggunakan ukuran font yang tersedia, jika sudah mencoba dan masih dirasa butuh menambah ukuran font, maka tambahkanlah.
 
 
-[Lanjut ke artikel berikutnya..](./colors-and-typography.md)
+[Lanjut ke artikel berikutnya..](./guideline-bagian3.md)
 
  
 
