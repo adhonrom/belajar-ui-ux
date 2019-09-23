@@ -56,7 +56,7 @@ Berlanjut ke artikel selanjutnya
 
 
 
-[Lanjut ke artikel berikutnya.. (coming soon)](./about-guideline-1.md)
+[Lanjut ke artikel berikutnya.. (coming soon)](./about-guideline-1.md)<br>
 [kembali ke artikel sebelumnya](./colors-and-typography.md)
 
  
