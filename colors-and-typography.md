@@ -111,5 +111,7 @@ Atau jika kamu adalah satu satu nya designer di project tersebut, maka pertimban
 
 [Lanjut ke artikel berikutnya..](./guideline-bagian3.md)
 
+###### Source: [https://medium.com/insightdesign/tentang-ui-guideline-bagian-2-7d7ef0e8b443](https://medium.com/insightdesign/tentang-ui-guideline-bagian-2-7d7ef0e8b443)
+
  
 
