@@ -86,4 +86,5 @@ Dengan ada nya guideline, bentuk tombol utama, warna pada tombol utama, ukuran t
 
 [Lanjut ke artikel berikutnya..](./colors-and-typography.md)
 
+###### source: [https://medium.com/insightdesign/tentang-ui-guideline-bagian-1-60adad60ba6d](https://medium.com/insightdesign/tentang-ui-guideline-bagian-1-60adad60ba6d)
  
