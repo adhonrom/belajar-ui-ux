@@ -1,5 +1,5 @@
 ### Daftar Isi
-[1. Color (Warna)](#1-color--warna--)<br>
+[1. Color (Warna)](#1-color)<br>
 [2. Typography](#2-typography)<br>
 
 
@@ -33,7 +33,7 @@ Buat 3–4 halaman design UI terlebih dahulu
 
 Setelah membuat beberapa design, kita bisa mulai membuat UI Guideline dimulai dari beberapa hal berikut…
 
-### 1. Color (Warna)
+### 1. Color 
 Mari membuat daftar warna apa saja yang digunakan. Dari design diatas, berikut adalah warna yang digunakan
 ![](asset/color.png)
 
