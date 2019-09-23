@@ -1,8 +1,7 @@
 ### Daftar Isi
-**[Tampilan UI Guideline](#Tampilan-UI-Guideline)**<br>
-[Mengapa harus menggunakan UI Guideline?](#Mengapa-harus-menggunakan-UI-Guideline)<br>
-[Apa keuntungan menggunakan UI Guideline?](#Apa-keuntungan-menggunakan-UI-Guideline)<br>
-[Kapan harus membuat UI Guideline?](#Kapan-harus-membuat-UI-Guideline)<br>
+**[1. Color](#1)**<br>
+**[2. Typography](#2)**<br>
+
 
 Ini adalah artikel lanjutan mengenai UI Guideline. Artikel sebelumnya bisa disimak [disini](./about-guideline-1.md)
 Pada bagian ke-2 ini kita akan membahas beberapa hal berikut:
@@ -11,19 +10,19 @@ Pada bagian ke-2 ini kita akan membahas beberapa hal berikut:
 + Membuat UI Guideline untuk Typography
 Mari kita mulai…
 
-### Bagaimana membuat UI Guideline?
+#### Bagaimana membuat UI Guideline?
 Sebelum membuat UI Guideline, mari kita pahami kembali apa fungsi UI Guideline, yaitu memandu kita saat membuat sebuah design. Memandu dalam hal apa?
 + Memandu seorang designer dalam membuat tombol
 + Memandu seorang designer dalam menggunakan font
 + Memandu seorang designer dalam menggunakan warna
 
-### Jadi kita bikin UI Guideline terlebih dahulu sebelum membuat sebuah design?
+#### Jadi kita bikin UI Guideline terlebih dahulu sebelum membuat sebuah design?
 Karena UI Guideline adalah sebuah panduan, rasa rasa nya lebih pas kalau kita bikin UI Guideline nya terlebih dahulu baru membuat design UI nya. Terasa masuk akal, tapi coba kita telaah… “Bagaimana mungkin kita bisa membuat aturan bahwa ukuran teks sebesar 20px cocok digunakan sebagai heading sementara kita belum pernah mengimplementasikan nya ke dalam sebuah design UI?”
 
-### Jadi bikin design UI nya terlebih dahulu?
+#### Jadi bikin design UI nya terlebih dahulu?
 Kalau menurut saya, Iya.
 
-### Lalu bagaimana memulai nya?
+#### Lalu bagaimana memulai nya?
 Buat 3–4 halaman design UI terlebih dahulu
 + Coba semua font yang menurutmu bagus.
 + Coba semua ukuran font yang menurutmu cocok dan enak dibaca
