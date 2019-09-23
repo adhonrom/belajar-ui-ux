@@ -1,11 +1,9 @@
 ### Daftar Isi
 - [Apa itu Margin?](#apa-itu-margin)
-  * [Seperti apa guideline untuk margin?](#seperti-apa-guideline-untuk-margin-)
+  * [Seperti apa guideline untuk margin?](#seperti-apa-guideline-untuk-margin)
 - [Kenapa margin harus diberi aturan?](#kenapa-margin-harus-diberi-aturan)
-  * [Dari mana kita memulai nya?](#dari-mana-kita-memulai-nya-)
-  * [Bagaimana Implementasi nya?](#bagaimana-implementasi-nya-)
-
-###### <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+  * [Dari mana kita memulai nya?](#dari-mana-kita-memulai-nya)
+  * [Bagaimana Implementasi nya?](#bagaimana-implementasi-nya)
 
 Ini adalah artikel lanjutan mengenai UI Guideline. Artikel sebelumnya bisa disimak [disini](./colors-and-typography.md) , Pada bagian ke-3 ini kita akan Membuat UI Guideline untuk Margin
 Sebelum kita mulai, mari kita melihat design yang telah dibuat
@@ -29,19 +27,19 @@ source: [https://marvelapp.com/styleguide/design/layout](https://marvelapp.com/s
 ![](asset/margin3.png)
 source: [https://primer.style/css/utilities/margin](https://primer.style/css/utilities/margin)<br>
 
-### Kenapa margin harus diberi aturan?
+### Kenapa margin harus diberi aturan
 terdapat beberapa keuntungan dengan membuat aturan ataupun guideline untuk margin:
 + Konsistensi
 + Mempercepat proses design, karena seorang designer tidak perlu lagi mempertimbangkan akan menggunakan margin 16px, 15px ataupun 17px
 + Mempercepat proses development, karena seorang developer tidak perlu mencari tahu jarak margin yang digunakan oleh sang designer. Jika aturan penggunaan margin telah di definisikan, maka seorang developer cukup dengan melihat design dan bisa langung menentukan akan menggunakan margin yang mana.
 
-#### Dari mana kita memulai nya?
+#### Dari mana kita memulai nya
 Jika sebelumnya kita membuat UI Guideline untuk Colors, Typography dengan membuat UI nya terlebih dahulu, maka untuk margin bisa kita definisikan aturan nya sebelum membuat UI nya, lalu setelah di definisikan bisa diuji coba pada beberapa design lalu dilakukan review apakah cocok atau tidak.
 Beberapa metode yang bisa digunakan dalam mendefinisikan aturan margin:
 + Penggunaan margin adalah kelipatan 4px. Sehingga margin yang bisa digunakan adalah 4px, 8px, 12px, 16px, dst….
 + Penggunaan margin adalah kelipatan 8px. Sehingga margin yang bisa digunakan adalah 8px, 16px, 24px, 32px, dst….
 
-#### Bagaimana Implementasi nya?
+#### Bagaimana Implementasi nya
 Mari kita implementasikan margin dengan kelipatan 4px pada design yang telah dibuat
 Berikut adalah daftar margin yang akan kita pakai
 ![](asset/ukuran-margin.png)
@@ -61,5 +59,4 @@ Berlanjut ke artikel selanjutnya
 [Lanjut ke artikel berikutnya..](./guideline-bagian3.md)
 
  
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+###### <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
