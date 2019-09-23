@@ -1,0 +1,15 @@
+  * [Bagaimana membuat UI Guideline?](#bagaimana-membuat-ui-guideline-)
+  * [Jadi kita bikin UI Guideline terlebih dahulu sebelum membuat sebuah design?](#jadi-kita-bikin-ui-guideline-terlebih-dahulu-sebelum-membuat-sebuah-design-)
+  * [Jadi bikin design UI nya terlebih dahulu?](#jadi-bikin-design-ui-nya-terlebih-dahulu-)
+  * [Lalu bagaimana memulai nya?](#lalu-bagaimana-memulai-nya-)
+- [1. Color (Warna)](#1-color--warna-)
+  * [Bentar… Itu warna merahnya kok sudah ada versi terang dan pekat nya? gimana cara menentukan nya?](#bentar--itu-warna-merahnya-kok-sudah-ada-versi-terang-dan-pekat-nya--gimana-cara-menentukan-nya-)
+  * [Apakah untuk daftar warna nya ini sudah tidak bisa diubah lagi?](#apakah-untuk-daftar-warna-nya-ini-sudah-tidak-bisa-diubah-lagi-)
+  * [Jadi selama belum ada kebutuhan untuk menambah warna lain, Maka selama membuat design halaman berikutnya, warna yang bisa digunakan hanya warna ini ya?](#jadi-selama-belum-ada-kebutuhan-untuk-menambah-warna-lain--maka-selama-membuat-design-halaman-berikutnya--warna-yang-bisa-digunakan-hanya-warna-ini-ya-)
+- [2. Typography](#2-typography)
+  * [Header](#header)
+  * [Body](#body)
+  * [Header](#header-1)
+  * [Body](#body-1)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
