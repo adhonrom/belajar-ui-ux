@@ -1,7 +1,7 @@
 ### Daftar Isi
-- [Apa itu Margin?](#apa-itu-margin-)
+- [Apa itu Margin?](#apa-itu-margin)
   * [Seperti apa guideline untuk margin?](#seperti-apa-guideline-untuk-margin-)
-- [Kenapa margin harus diberi aturan?](#kenapa-margin-harus-diberi-aturan-)
+- [Kenapa margin harus diberi aturan?](#kenapa-margin-harus-diberi-aturan)
   * [Dari mana kita memulai nya?](#dari-mana-kita-memulai-nya-)
   * [Bagaimana Implementasi nya?](#bagaimana-implementasi-nya-)
 
@@ -13,7 +13,7 @@ Sebelum kita mulai, mari kita melihat design yang telah dibuat
 ![](asset/uiguideline2b.png)
 Pada artikel sebelumnya, kita telah membuat aturan mengenai Warna dan Typography. Kini kita akan membuat aturan atau guideline mengenai penggunaan margin.
 
-### Apa itu Margin?
+### Apa itu Margin
 Adalah jarak antar elemen.
 + Jarak tombol dengan teks di dekatnya
 + Jarak Title dengan deskripsi
