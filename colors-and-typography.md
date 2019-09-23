@@ -11,87 +11,104 @@ Pada bagian ke-2 ini kita akan membahas beberapa hal berikut:
 + Membuat UI Guideline untuk Typography
 Mari kita mulai…
 
----
+### Bagaimana membuat UI Guideline?
+Sebelum membuat UI Guideline, mari kita pahami kembali apa fungsi UI Guideline, yaitu memandu kita saat membuat sebuah design. Memandu dalam hal apa?
++ Memandu seorang designer dalam membuat tombol
++ Memandu seorang designer dalam menggunakan font
++ Memandu seorang designer dalam menggunakan warna
 
-## Tampilan UI Guideline
-berikut adalah contoh UI yang saya dapat dari [Allen Jordan](https://dribbble.com/shots/6419510-ODS-v1-Consumer-Design-System) dari akun dribbble-nya
+### Jadi kita bikin UI Guideline terlebih dahulu sebelum membuat sebuah design?
+Karena UI Guideline adalah sebuah panduan, rasa rasa nya lebih pas kalau kita bikin UI Guideline nya terlebih dahulu baru membuat design UI nya. Terasa masuk akal, tapi coba kita telaah… “Bagaimana mungkin kita bisa membuat aturan bahwa ukuran teks sebesar 20px cocok digunakan sebagai heading sementara kita belum pernah mengimplementasikan nya ke dalam sebuah design UI?”
 
-![Header](asset/tampilan-ui-guildline.png) 
+### Jadi bikin design UI nya terlebih dahulu?
+Kalau menurut saya, Iya.
 
-Jadi apa itu UI Guideline?
-Sebuah dokumen yang berisi aturan aturan dalam mendesain suatu produk digital. Aturan aturan tersebut diantaranya:
+### Lalu bagaimana memulai nya?
+Buat 3–4 halaman design UI terlebih dahulu
++ Coba semua font yang menurutmu bagus.
++ Coba semua ukuran font yang menurutmu cocok dan enak dibaca
++ Untuk warna, Jika kamu mengerjakan project klien maka ikuti brand color nya. Lalu tambahkan beberapa warna yang menurutmu bisa sesuai dengan brand color nya.
++ Coba eksplorasi bentuk tombol yang menurutmu bagus seperti apa
+![](asset/uiguideline2a.png)
+![](asset/uiguideline2b.png)
 
-+ Daftar warna warna yang bisa digunakan
-+ Daftar font yang bisa digunakan
-+ Ukuran font yang bisa digunakan
-+ Bentuk, warna dan ukuran tombol
-+ Bentuk input teks
-+ Bagaimana menampilkan pesan error pada input teks
-+ Bagaimana warna button jika di hover atau saat di klik
-+ Bagaimana ukuran font saat digunakan sebagai heading atau saat digunakan sebagai teks di suatu paragraf
-+ Bagaimana jarak antar elemen, Dan masih banyak lagi...
+Setelah membuat beberapa design, kita bisa mulai membuat UI Guideline dimulai dari beberapa hal berikut…
 
-## Mengapa harus menggunakan UI Guideline
-Alasan yang paling utama adalah menjaga konsistensi elemen elemen dari sebuah produk digital. UI Guideline bisa dikatakan sebagai Single Source of Truth atau sebuah pedoman. Jika seorang designer menemukan beberapa design yang tidak konsisten, designer tersebut bisa membuka UI Guideline untuk mencari tahu mana yang benar.
+### 1. Color (Warna)
+Mari membuat daftar warna apa saja yang digunakan. Dari design diatas, berikut adalah warna yang digunakan
+![](asset/color.png)
 
+Setelah membuat daftar warna yang digunakan, kita bisa melihat bahwa untuk warna hitam, terdapat 3 warna yang berbeda
++ Hitam Pekat
++ Hitam Normal
++ Hitam Terang
+Dan untuk warna abu abu juga terdapat 3 warna yang berbeda
++ Abu abu Pekat
++ Abu abu Normal
++ Abu abu Terang
+Untuk warna biru, baru terdapat 2 warna yang berbeda
++ Biru Normal
++ Biru Terang
+Untuk Hijau, baru terdapat 2 warna yang berbeda
++ Hijau Normal
++ Hijau Terang
+Sampai di tahap ini kita bisa menyimpulkan bahwa untuk sebuah warna kita membutuhkan 3 macam warna yaitu Pekat, Normal dan Terang.
+Melihat kebutuhan tersebut kita bisa menyediakan 3 tingkat untuk setiap warna. Sehingga UI Guideline untuk warna menjadi seperti berikut…
+![](asset/color2.png)
+Setelah itu kita beri nama dan beri keterangan hexa code nya agar lebih jelas, sehingga menjadi seperti dibawah ini…
+![](asset/color3.png)
 
-Contohnya:
->Andi sedang memeriksa hasil design dari team nya. Saat itu mereka sedang mendesain alur pembelian barang. Di halaman pertama, Andi melihat tombolnya berwarna hijau. Di halaman kedua, Andi melihat tombol nya berwarna orange.
->Karena mengalami hal tersebut, Andi lantas membuka UI Guideline dan mencari tahu bagaimana bentuk, ukuran dan warna tombol yang harus digunakan.
+#### Bentar… Itu warna merahnya kok sudah ada versi terang dan pekat nya? gimana cara menentukan nya?
+>Tenang, untuk daftar warna nya ini hanya sementara, masih bisa mengalami perubahan seiring banyak nya halaman halaman yang dibuat. Jadi warna merah pekat yang kita tentukan sekarang bisa saja berubah ketika setelah dicoba pada suatu design ternyata warna nya perlu yang lebih pekat lagi.
+>Jadi bisa dikatakan warna merah pekat dan terang adalah warna yang akan kita ujikan pada design yang akan kita buat nanti nya.
+#### Apakah untuk daftar warna nya ini sudah tidak bisa diubah lagi?
+>Tentu bisa, UI Guideline adalah living document, Jadi UI Guideline adalah sebuah dokumen yang bisa mengalami perubahan sesuai dengan kebutuhan dari produk tersebut.
+>Jadi misal neh.. suatu hari sedang membuat fitur notifikasi. Lalu di setiap notifikasi nya butuh warna warna yang unik. Maka kita bisa mendiskusikan kemungkinan untuk menambahkan warna pada UI Guideline dengan rekan rekan designer lain nya.
+#### Jadi selama belum ada kebutuhan untuk menambah warna lain, Maka selama membuat design halaman berikutnya, warna yang bisa digunakan hanya warna ini ya?
+>Betul Sekali
 
-## Apa keuntungan menggunakan UI Guideline
-#### 1. Konsistensi di semua halaman sebuah produk digital bisa terjaga
-Bayangkan jika kamu menggunakan sebuah app untuk mencari tiket pesawat. Pada halaman awal, tombol pencarian nya berwarna hijau. Lalu pada halaman berikutnya tombol pemesanan nya berwarna orange. Bingung enggak?
-Dengan ada nya UI Guideline, hal ini tidak akan terjadi.
-Konsistensi cukup penting dalam sebuah produk digital. Karena dengan konsistensi, user akan lebih mudah untuk mengenali sebuah elemen.
->Contohnya… jika dari awal tombol pencarian nya atau tombol utama nya berwarna hijau, maka di halaman halaman selanjut nya user tinggal mencari sebuah tombol berwarna hijau untuk melanjutkan prosesnya.
-Contoh konsistensi dalam penggunaan tombol :
-![Tombol](asset/konsistensi-tombol.png)
-Membuat user mudah mengenali mana elemen tombol untuk melanjutkan proses
+### 2. Typography
+Selanjutnya kita akan membuat aturan dalam penggunaan font, ukuran font, ketebalan font dan segala hal yang berhubungan dengan penggunaan teks di dalam produk yang kita rancang.
+Kita mulai dari membuat daftar semua ukuran teks yang digunakan pada design di atas, berikut hasilnya…
+![](asset/tipografi1.png)
+Coba perhatikan 2 baris pertama pada tabel diatas 👆, sama sama digunakan untuk header di tempat yang hampir sama tetapi terdapat perbedaan ukuran huruf dan ketebalan huruf.
+![](asset/tipografi2.png)
+Itu adalah salah satu hal kecil jika kita tidak menggunakan guideline. Akan ditemukan berbagai macam ukuran font.
+Dari data diatas, kita bisa membuat UI Guideline untuk typography dengan membuat 2 kategori, font yang digunakan untuk header dan font yang digunakan untuk body
+Sehingga urutan nya menjadi seperti ini….
+![](asset/tipografi3.png)
+Dari pengurutan di atas, didapatlah ukuran font yang sering digunakan sebagai berikut…
+#### Header
++ 25px
++ 24px
++ 16px
+#### Body
++ 15px
++ 14px
++ 13px
++ 12px
+Untuk ukuran header 24px bisa kita hilangkan, karena penggunaan nya di tempat yang hampir sama dengan ukuran header 25px
+![](asset/tipografi4.png)
+Sehingga ukuran ukuran font yang digunakan menjadi seperti berikut…
+#### Header
+>25px
+>16px
+#### Body
++ 15px
++ 14px
++ 13px
++ 12px
+Setelah itu kita menganalisa ketebalan font yang sering digunakan, dari data diatas, ketebalan font yang sering digunakan adalah:
++ Bold
++ Semibold
++ Regular
++ Light
+Ketebalan font ini juga bisa kita masukkan ke dalam UI Guideline, sehingga memberi informasi ketebalan font seperti apa yang bisa digunakan
+Setelah itu, kita bisa membuat dokumentasi UI Guideline untuk typography seperti dibawah ini
+![](asset/tipografi5.png)
+Setelah UI Guideline untuk Typography selesai, maka ketika kita akan membuat design UI untuk halaman berikutnya, semua penggunaan teks harus mengacu pada dokumen diatas. Tetapi jika memang dirasa dibutuhkan untuk menambahkan ukuran teks, maka yang pertama harus dilakukan adalah berdiskusi dengan team design.
+Atau jika kamu adalah satu satu nya designer di project tersebut, maka pertimbangkanlah dulu untuk menggunakan ukuran font yang tersedia, jika sudah mencoba dan masih dirasa butuh menambah ukuran font, maka tambahkanlah.
 
-#### 2. Workflow atau kinerja menjadi lebih cepat
-Tidak perlu lagi memikirkan…
->“Eh tombol untuk CTA bentuknya gimana ya tadi?”
->“Tombol Cancel baiknya seperti apa ya?”
->“Tombol di pop-up seperti apa ya bagusnya?”
-Semua nya sudah terdokumentasikan secara jelas, sehingga cukup mengikuti aturan nya saja.
-
-Contoh Guideline sebuah tombol yang bisa mempercepat kinerja seorang designer :
-![](asset/guildeline-tombol.png)
-
-#### 3. Designer bisa lebih fokus ke pembuatan solusi
-Karena semua elemen sudah terdokumentasi, maka tidak perlu lagi untuk memikirkan…
->“Bentuk dropdown nya seperti apa ya?”
->“Dropdown nya bagus dikasih border atau enggak ya?”
->“Tinggi dropdown nya seberapa ya? , apakah mau setinggi tombol utama?”
-Karena hal hal tersebut sudah terdokumentasikan, designer bisa fokus ke hal hal yang lebih penting seperti:
-
->+ Pembuatan layout
->+ Cara menampilkan informasi di sebuah halaman
-
-Tanpa perlu memikirkan detail kecil seperti ukuran teks dan tinggi button.
-
-Contoh Guideline untuk elemen dropdown
-![](asset/guildeline-dropdown.png)
-
-#### 4. Membantu Developer dalam implementasi design ke dalam bentuk code
-Dengan ada nya guideline, maka design sebuah produk digital akan menjadi konsisten, hal ini akan berdampak juga pada developer. Mereka akan lebih mudah mengimplementasi design dari designer.
-
->Contohnya… Karena tombol utama nya sudah terdapat UI Guideline nya mulai dari warna nya, bentuknya, ukuran teks nya, maka developer bisa membuat sebuah class untuk tombol utama tersebut. Dan jika developer tersebut sedang mendevelop halaman lain yang terdapat tombol utama nya, mereka tidak perlu mengukur tinggi tombol tersebut, dan mencari tahu warna nya apa. Mereka cukup menggunakan class yang telah mereka buat sebelumnya.
-
-Contoh sebuah class untuk tombol
- 	![](asset/class-button.png)
- 
-## Kapan harus membuat UI Guideline
-Ini sangat bergantung pada kondisi masing masing.
-Ada perusahaan yang membuat UI Guideline dari awal untuk memastikan proses design sebuah aplikasi berjalan lancar dan elemen nya konsisten. Ada perusahaan yang ngejar cepet, pokoknya jadi dulu aja. Jika ada yang enggak konsisten enggak apa apa. Bikin guideline nya bisa nanti nanti saja.
-Menurut saya pribadi, kita harus mulai untuk membuat UI Guideline jika…
-> 1. Terdapat banyak sekali halaman pada sebuah produk digital tersebut baik web maupun app.
-Sehingga jika kita sedang mendesain halaman pengisian form, kita tidak perlu mencari cari halaman lain yang memiliki design form hanya untuk mencari tahu bentuk form seperti apa. Kita cukup membuka guideline untuk mencari tahu bentuk form nya.
-> 2. Banyak designer yang mengerjakan design sebuah produk digital
-Bayangkan jika ada 4 designer yang mengerjakan sebuah produk digital. 
-Sebutlah Andi, Budi, Toni dan Ria. Andi membuat design tombol utama warna hijau. Lalu Budi karena suka Manchester United bikin design tombol utama warna merah, Toni dan Ria punya warna favorit sendiri, sehingga mereka memberi warna tombol utama sesuai warna favorit mereka. Repot kan?
-Dengan ada nya guideline, bentuk tombol utama, warna pada tombol utama, ukuran teks pada tombol utama akan tetap sama di semua halaman walaupun yang mengerjakan nya ada 4 designer.
 
 [Lanjut ke artikel berikutnya..](./colors-and-typography.md)
 
