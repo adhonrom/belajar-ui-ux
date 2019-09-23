@@ -1,5 +1,5 @@
 ### Daftar Isi
-[1. Color (Warna)](#1-color--warna-)
+[1. Color (Warna)](#1-color--warna--)<br>
 [2. Typography](#2-typography)<br>
 
 
