@@ -1,6 +1,6 @@
 ### Daftar Isi
-**[1. Color](#1)**<br>
-**[2. Typography](#2)**<br>
+*[1. Color (Warna)](#1-color--warna-)<br>
+[2. Typography](#2-typography)<br>
 
 
 Ini adalah artikel lanjutan mengenai UI Guideline. Artikel sebelumnya bisa disimak [disini](./about-guideline-1.md)
