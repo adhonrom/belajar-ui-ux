@@ -1,6 +1,9 @@
 ### Daftar Isi
-[Apa itu Margin?](#apa-itu-margin-)<br>
-[Kenapa margin harus diberi aturan?](#kenapa-margin-harus-diberi-aturan-)<br>
+- [Apa itu Margin?](#apa-itu-margin-)
+  * [Seperti apa guideline untuk margin?](#seperti-apa-guideline-untuk-margin-)
+- [Kenapa margin harus diberi aturan?](#kenapa-margin-harus-diberi-aturan-)
+  * [Dari mana kita memulai nya?](#dari-mana-kita-memulai-nya-)
+  * [Bagaimana Implementasi nya?](#bagaimana-implementasi-nya-)
 
 Ini adalah artikel lanjutan mengenai UI Guideline. Artikel sebelumnya bisa disimak [disini](./colors-and-typography.md) , Pada bagian ke-3 ini kita akan Membuat UI Guideline untuk Margin
 Sebelum kita mulai, mari kita melihat design yang telah dibuat
