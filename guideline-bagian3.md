@@ -56,7 +56,8 @@ Berlanjut ke artikel selanjutnya
 
 
 
-[Lanjut ke artikel berikutnya..](./guideline-bagian3.md)
+[Lanjut ke artikel berikutnya.. (coming soon)](./about-guideline-1.md)
+[kembali ke artikel sebelumnya](./colors-and-typography.md)
 
  
 ###### <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
