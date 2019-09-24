@@ -9,3 +9,6 @@ berikut yang perlu dipelajari tentang UI guideline :
 ### [Bagian-1 - Tentang UI Guideline](./about-guideline-1.md)
 ### [Bagian-2 - Colors & Typography](./colors-and-typography.md)
 ### [Bagian-3 - Margin](./guideline-bagian3.md)
+
+---
+###### source: [https://medium.com/insightdesign/tentang-ui-guideline-bagian-1-60adad60ba6d](https://medium.com/insightdesign/tentang-ui-guideline-bagian-1-60adad60ba6d)
