@@ -11,4 +11,4 @@ berikut yang perlu dipelajari tentang UI guideline :
 ### [Bagian-3 - Margin](./guideline-bagian3.md)
 
 ---
-###### source: [https://medium.com/insightdesign/tentang-ui-guideline-bagian-1-60adad60ba6d](https://medium.com/insightdesign/tentang-ui-guideline-bagian-1-60adad60ba6d)
+###### source: [https://medium.com/@dwinawan](https://medium.com/@dwinawan)
